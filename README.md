@@ -19,7 +19,7 @@ This January (2022) I've built a couple of landing pages, because I can and I'm 
 - [Sätra Brunn DAO](https://www.satrabrunn.xyz/)
 - [Bankless Sweden](https://www.bankless.se/)
 
-On my freetime I like opening up the [etherscan contract editor](https://etherscan.deth.net/) (append `address/[contract-address]`) to read contracts. Yet to be really try my hand at solitidy development professionally. Also, dropping into discords and being helpful off the bat, like 10 minutes in
+On my freetime I like opening up the [etherscan contract editor](https://etherscan.deth.net/) (append `address/[contract-address]`) to read contracts. Yet to try my hand at solidity development professionally. Also, I like dropping into discords and being helpful off the bat, like 10 minutes in
 
 ![miss_pro](miss_pro.png)
 
