@@ -16,8 +16,8 @@ Currently doing my own thing;
 
 This January (2022) I've built a couple of landing pages, because I can and I'm lightning fast 🤷‍♀️;
 
-- [Sätra Brunn DAO](https://www.satrabrunn.xyz/)
-- [Bankless Sweden](https://www.bankless.se/)
+- [Sätra Brunn DAO](https://www.satrabrunn.xyz/), first time interacting with a contract! The progressbar pulls data from a [Juicebox contract](https://docs.juicebox.money/protocol/specifications/contracts/or-payment-terminals/jbethpaymentterminalstore).
+- [Bankless Sweden](https://www.bankless.se/).
 
 On my freetime I like opening up the [etherscan contract editor](https://etherscan.deth.net/) (append `address/[contract-address]`) to read contracts. Yet to try my hand at solidity development professionally. Also, I like dropping into discords and being helpful off the bat, like 10 minutes in
 
@@ -33,6 +33,8 @@ All those of you constantly labeling me "frontend first" (what, because I'm a sh
 
 ## Collab
 
+<!-- "So, you've been a programmer for 10 years?" – for the longest time, I felt like a complete failure in the space. I did not have a fun time starting out at uni. I didn't realise that everyone was flailing. I didn't realise that my lightweight solutions were often as good as the over-engineered solutions I assumed were correct... I didn't understand that the biggest ego's, the ones making me feel useless, were the ones who knew the absolute least. -->
+
 I shy away from OS work, but I *want* to do more open source and be less afraid of social interaction. I'm a clinical hermit - I dare say so because I believe that I, and others, can do brilliant work regardless of how we fit in to others arbitrary structures of being rockstars.
 
-I planned on being an elusive shadow coder for the rest of my working days, but I realised that if I wanted to be apart of web3 I needed to interact. I've pre-doxxed myself too.
+I planned on being an elusive shadow coder for the rest of my working days, but I realised that if I wanted to be apart of web3 I needed to interact. I've pre-doxxed myself.
