@@ -21,7 +21,7 @@ This January (2022) I've built a couple of landing pages, because I can and I'm 
 
 On my freetime I like opening up the [etherscan contract editor](https://etherscan.deth.net/) (append `address/[contract-address]`) to read contracts. Yet to be really try my hand at solitidy development professionally. Also, dropping into discords and being helpful off the bat, like 10 minutes in
 
-![miss-pro](miss-pro.png)
+![miss_pro](miss_pro.png)
 
 ## 2021 Waka Stats - Time in editor
 
