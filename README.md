@@ -2,9 +2,13 @@
 
 Hey, I'm Evie, I love git. I git everything. Very little goes public, so Github is mostly my scratch pad for frontend work. I hangout a lot on Bitbucket for work.
 
-As a programmer I'm more of a less-is-more chick. Like... I don't get bloating a new project with all the bells and whistles that'll need upkeep while trying to move forward fast. Most bang for the buck is my priority when early in an project.
+As a programmer I'm more of a less-is-more chick. Like... I don't get bloating a new project with all the bells and whistles that'll need upkeep while trying to move forward fast. Most bang for the buck is my priority when early in an project. With that said, I *love* a good abstraction with an intuitive interface, but starting there instead of a necessary refactor... meh.
 
-Currently doing my own thing;
+![Over-engineering](https://imgs.xkcd.com/comics/the_general_problem.png)
+
+*The General Problem - XKCD*
+
+**Currently doing my own thing**;
 
 - [thesis](https://thesis.stenqvist.co) for my ML masters at KTH, subject to change as soon as I'm provided a supervisor.
     + Website wise I had a nice time working out a supercheap solution; Github Pages, Formspark (25$ for 50k submissions regardless of project or time horizon) and Integromat (lofty free tier) to get a POAP code on form submission from a google sheet. So - 25$ without any running costs.
